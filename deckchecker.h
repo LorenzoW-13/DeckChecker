@@ -18,6 +18,8 @@ class DeckChecker : public QMainWindow {
         Ui::MainWindow ui;
 
     private slots:
+        //Show selected deck function
+        void showSelected();
         //New deck function
         void loadDecks();
 };
