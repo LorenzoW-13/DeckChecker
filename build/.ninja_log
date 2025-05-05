@@ -1,0 +1,19 @@
+# ninja log v5
+1	149	7681403884114874	MTGManager_autogen/timestamp	3a847de94e058e4f
+1	149	7681403884114874	MTGManager_autogen/mocs_compilation.cpp	3a847de94e058e4f
+1	149	7681403884114874	C:/Users/Lorenzo/Desktop/GitHubData/DeckChecker/build/MTGManager_autogen/timestamp	3a847de94e058e4f
+1	149	7681403884114874	C:/Users/Lorenzo/Desktop/GitHubData/DeckChecker/build/MTGManager_autogen/mocs_compilation.cpp	3a847de94e058e4f
+158	216	7681403885135400	CMakeFiles/MTGManager.dir/MTGManager_autogen/mocs_compilation.cpp.obj	5cb913e7721166b2
+164	223	7681403885135400	CMakeFiles/MTGManager.dir/deckchecker.cpp.obj	ddd97b976f0cfa2b
+1	442	7681407409302066	MTGManager_autogen/timestamp	3a847de94e058e4f
+1	442	7681407409302066	MTGManager_autogen/mocs_compilation.cpp	3a847de94e058e4f
+1	442	7681407409302066	C:/Users/Lorenzo/Desktop/GitHubData/DeckChecker/build/MTGManager_autogen/timestamp	3a847de94e058e4f
+1	442	7681407409302066	C:/Users/Lorenzo/Desktop/GitHubData/DeckChecker/build/MTGManager_autogen/mocs_compilation.cpp	3a847de94e058e4f
+4	388	7681408114535254	MTGManager_autogen/timestamp	3a847de94e058e4f
+4	388	7681408114535254	MTGManager_autogen/mocs_compilation.cpp	3a847de94e058e4f
+4	388	7681408114535254	C:/Users/Lorenzo/Desktop/GitHubData/DeckChecker/build/MTGManager_autogen/timestamp	3a847de94e058e4f
+4	388	7681408114535254	C:/Users/Lorenzo/Desktop/GitHubData/DeckChecker/build/MTGManager_autogen/mocs_compilation.cpp	3a847de94e058e4f
+388	1545	7681408126700769	CMakeFiles/MTGManager.dir/main.cpp.obj	24817d894cedad5
+395	1556	7681408126767593	CMakeFiles/MTGManager.dir/MTGManager_autogen/mocs_compilation.cpp.obj	5cb913e7721166b2
+401	1561	7681408126767593	CMakeFiles/MTGManager.dir/deckchecker.cpp.obj	ddd97b976f0cfa2b
+1561	1749	7681408128639818	MTGManager.exe	7ee472c2f3bd9595

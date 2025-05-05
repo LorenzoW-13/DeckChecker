@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MTGManager",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MTGManager::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MTGManager-Debug-16caf668e9626bc4c99b.json",
+					"name" : "MTGManager",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MTGManager_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MTGManager_autogen-Debug-13bc3cd54f0e0888ef2e.json",
+					"name" : "MTGManager_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MTGManager_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MTGManager_autogen_timestamp_deps-Debug-ff661ece43aa28e44a54.json",
+					"name" : "MTGManager_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Lorenzo/Desktop/GitHubData/DeckChecker/build",
+		"source" : "C:/Users/Lorenzo/Desktop/GitHubData/DeckChecker"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

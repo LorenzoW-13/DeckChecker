@@ -1,0 +1,5 @@
+C:/Users/Lorenzo/Desktop/GitHubData/DeckChecker/build/CMakeFiles/MTGManager.dir
+C:/Users/Lorenzo/Desktop/GitHubData/DeckChecker/build/CMakeFiles/edit_cache.dir
+C:/Users/Lorenzo/Desktop/GitHubData/DeckChecker/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Lorenzo/Desktop/GitHubData/DeckChecker/build/CMakeFiles/MTGManager_autogen_timestamp_deps.dir
+C:/Users/Lorenzo/Desktop/GitHubData/DeckChecker/build/CMakeFiles/MTGManager_autogen.dir
