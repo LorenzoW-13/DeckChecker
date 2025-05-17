@@ -13,6 +13,10 @@ qt_add_executable(MTGManager
 
     deckchecker.cpp
     deckchecker.ui
+    databaseerror.cpp
+    databaseerror.ui
+
+    ItemColor.cpp
 )
 
 target_link_libraries(MTGManager PRIVATE Qt6::Widgets Qt6::Sql)
